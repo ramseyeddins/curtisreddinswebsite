@@ -1,0 +1,384 @@
+.App {
+  text-align: center;
+  background-color:#343A40
+}
+
+
+.Link-Border{
+  margin-top: 7px;
+  margin-right:4px;
+}
+
+.italic{
+  font-style: italic;
+  display: inline;
+}
+
+
+#Padding{
+  padding: 1% 1% 1% 1%;
+  font-family: helvetica;
+  font-size: 6pt !important;
+}
+
+
+#icon{
+  display: inline;
+}
+
+.Header{
+  text-align: right;
+  font-family: helvetica;
+  font-size: 11pt;
+}
+.Welcome{
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  text-align: left;
+  font-family: helvetica;
+  font-size: 11pt;
+  width: 400px;
+}
+
+.Title{
+  font-family: helvetica;
+  font-size: 22pt;
+  color: white !important; 
+  text-decoration: none !important;
+  font-family: helvetica;
+}
+
+.Title a{
+  font-family: helvetica;
+  font-size: 22pt;
+  color: white; 
+  text-decoration: none;
+  color: inherit;
+  font-family: helvetica;
+}
+
+.Title:hover{
+  color: rgb(201, 201, 201) !important;
+}
+
+
+
+.Contact{
+  text-align: center;
+  font-family: helvetica;
+  font-size: 22pt;
+}
+
+#bold{
+  font-size: 21;
+  font-weight: bold;
+  display: inline;
+}
+
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid rgb(0, 0, 0);
+  margin: 1em 0;
+  padding: 0;
+}
+
+.Brand{
+  font-family: helvetica;
+  font-size: 13pt;
+  letter-spacing: 2px;
+}
+
+.Brand:hover{
+  color: rgb(109, 107, 107) !important;
+}
+
+.Photo{
+  clear: both;
+  float: left;
+  width: 200px;
+}
+
+#me{
+  float: left;
+  padding: 40px 0px 0px 40px;
+}
+
+.Name{
+  float: left;
+  clear: both;
+  display: block;
+  font-family: helvetica;
+  font-size: 18pt;
+  padding: 40px 0px 0px 20px;
+  color: white;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.Email a{ 
+  color: white; 
+  text-decoration: none;
+  color: inherit;
+  font-family: helvetica;
+  font-size: 10pt;
+}
+.Email a:hover{
+  color: rgb(170, 160, 160); 
+}
+
+#body{
+  background-color:rgb(55, 62, 69);
+  color: white;
+  float: right;
+  text-align: center;
+  padding: 30px 40px 0px 40px;
+  margin-top: 50px;
+  margin-right: 10%;
+  margin-left: 5%;
+  outline-style: solid;
+  outline-width: .01px;
+  outline-color: #161616;
+  margin-bottom: 10px;
+}
+
+#body-object{
+  display: block;
+  clear:both;
+  float: none;
+  margin-top: 40px;
+  margin-right: auto;
+  margin-left: 0%;
+  margin-bottom: 30px;
+  width: 700px;
+  text-align: left;
+  position: static;
+}
+
+.Links{
+  font-family: copperplate, papyrus, fantasy;
+  font-size: 12pt;
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(58, 50, 50);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.Pdf{
+  text-align: center;
+  font-family: helvetica;
+  font-size: 12pt;
+  color: white !important; 
+  text-decoration: none !important;
+  font-family: helvetica;
+}
+
+.Pdf a{
+  text-align: center;
+  font-family: helvetica;
+  font-size: 12pt;
+  color: white; 
+  text-decoration: none;
+  color: inherit;
+  font-family: helvetica;
+}
+
+.Pdf:hover{
+  text-align: center;
+  color: rgb(201, 201, 201) !important;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+@media only screen and (max-width: 1500px) {
+  .Contact{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: helvetica;
+    font-size: 22pt;
+  }
+
+  #body{
+    float: none;
+    margin-right: 10%;
+    margin-left: 10%;
+  }
+
+
+  #body-object{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+  }
+
+  .Photo{
+    clear: both;
+    float: none;
+    width: 200px;
+    padding: 0px 0px 0px 0px;
+  }
+
+  #me{
+    clear: both;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px 0px 0px 0px;
+  }
+
+  .Name{
+    clear: both;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px 10% 0px 10%;
+  }
+
+  .Welcome{
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    font-family: helvetica;
+    font-size: 11pt;
+    width: 80%;
+  }
+}
+
+
+
+@media only screen and (min-width: 768px) {
+  .Brand{
+    padding-right: 30px;
+    border-right: 1px solid #000000;
+  }
+  .collapse {
+    display: none !important;
+  }
+
+  .Link-Border{
+    margin-left:15px;
+    margin-right:15px;
+  }
+
+}
+
+@media only screen and (max-width: 500px) {
+
+  #body{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  #text{
+    margin-left: 2px;
+    margin-right: 2px;
+    padding: 1px;
+  }
+  
+  #body-object{
+    width: 80%;
+  }
+
+  .Welcome{
+    width: 100%;
+  }
+
+}
+
+@media only screen and (max-width: 400px) {
+  .Brand{
+    display: none;
+  }
+  .button-width{
+    width: 10%;
+  }
+  #link-margin{
+    padding-right: 100px;
+  }
+
+}
+
+#text{
+  font-size: 12pt;
+}
+
+
+.popup-box {
+  position: fixed;
+  background: #00000050;
+  width: 100%;
+  height: 100vh;
+  top: 0;
+  left: 0;
+}
+ 
+.box {
+  text-align: center;
+  position: relative;
+  width: 40%;
+  margin: 0 auto;
+  height: auto;
+  max-height: 70vh;
+  margin-top: calc(100vh - 85vh - 20px);
+  background: #343A40;
+  border-radius: 4px;
+  padding: 20px;
+  border: 1px solid #999;
+  overflow: auto;
+}
+ 
+.close-icon {
+  content: 'x';
+  cursor: pointer;
+  position: fixed;
+  right: calc(25% - 10px);
+  top: calc(100vh - 85vh - 33px);
+  background: #343A40;
+  width: 25px;
+  height: 25px;
+  border-radius: 10%;
+  line-height: 20px;
+  text-align: center;
+  border: 1px solid #999;
+  font-size: 20px;
+}
