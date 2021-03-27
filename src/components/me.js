@@ -28,7 +28,7 @@ const me = () => {
                             Hi! My name is Curtis Ramsey Eddins. 
                             Welcome to my personal website. 
                             I enjoy building applications, creating websites, 
-                            and learning new skills. This site was build using 
+                            and learning new skills. This site was built using 
                             React, React-Bootstrap, React-Router, React-Mailto, 
                             and EmailJS. Thanks for stopping by. 
                         </div>
