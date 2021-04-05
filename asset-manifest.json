@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b988f8c2.chunk.css",
-    "main.js": "/static/js/main.0636a365.chunk.js",
-    "main.js.map": "/static/js/main.0636a365.chunk.js.map",
+    "main.js": "/static/js/main.96734a90.chunk.js",
+    "main.js.map": "/static/js/main.96734a90.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0eb6ff62.js",
     "runtime-main.js.map": "/static/js/runtime-main.0eb6ff62.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.b988f8c2.chunk.css.map": "/static/css/main.b988f8c2.chunk.css.map",
     "static/js/2.5e38fc53.chunk.js.LICENSE.txt": "/static/js/2.5e38fc53.chunk.js.LICENSE.txt",
-    "static/media/Curtis Ramsey Eddins_Resume.15dd979f.pdf": "/static/media/Curtis Ramsey Eddins_Resume.15dd979f.pdf",
+    "static/media/Curtis Ramsey Eddins_Resume.71a2f6ed.pdf": "/static/media/Curtis Ramsey Eddins_Resume.71a2f6ed.pdf",
     "static/media/logo.902ee84b.svg": "/static/media/logo.902ee84b.svg",
     "static/media/me.830cb5f2.png": "/static/media/me.830cb5f2.png"
   },
@@ -23,6 +23,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.5e38fc53.chunk.js",
     "static/css/main.b988f8c2.chunk.css",
-    "static/js/main.0636a365.chunk.js"
+    "static/js/main.96734a90.chunk.js"
   ]
 }
