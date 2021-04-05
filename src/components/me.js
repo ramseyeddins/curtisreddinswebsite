@@ -30,7 +30,7 @@ const me = () => {
                             I enjoy building applications, creating websites, 
                             and learning new skills. This site was built using 
                             React, React-Bootstrap, React-Router, React-Mailto, 
-                            and EmailJS. Thanks for stopping by. 
+                            EmailJS, and hosted with GitHub Pages. Thanks for stopping by!
                         </div>
                     </div>
                     <hr/>
